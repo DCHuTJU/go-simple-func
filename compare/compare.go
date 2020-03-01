@@ -1,4 +1,4 @@
-package pkg
+package compare
 
 // compare who is bigger
 func max(a, b int) int {
