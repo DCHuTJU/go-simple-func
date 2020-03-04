@@ -1,7 +1,7 @@
 package compare
 
 // compare who is bigger
-func max(a, b int) int {
+func Max(a, b int) int {
 	if a > b {
 		return a
 	}
@@ -9,7 +9,7 @@ func max(a, b int) int {
 }
 
 // compare who is smaller
-func min(a, b int) int {
+func Min(a, b int) int {
 	if a < b {
 		return a
 	}
